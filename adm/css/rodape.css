@@ -1,0 +1,16 @@
+/* Document CSS*/
+
+#fundo_rodape {
+	background:url(../imagens/fundo_azul_rodape.jpg) repeat-x;
+	height: 90px;
+	clear: both;
+}
+
+#texto_rodape {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	padding-top: 10px;
+	color:#FFFFFF;
+	text-align:left;
+	margin-left: 20px;
+}

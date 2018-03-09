@@ -1,0 +1,53 @@
+/* Document CSS*/
+
+body {
+	margin: 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+}
+
+.fundo_topo {
+	background:url(../imagens/fundo_topo.jpg) repeat-x;
+	height: 174px;
+}
+
+.imagem_topo {
+	height: 25px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	
+
+}
+
+.topo {
+	width: 800px;
+	height: 140px;
+	margin: 0 auto;
+	border: 1px solid  #FF0000;
+	background-color:#CCCCCC;
+}
+
+.titulo_topo {
+	font-family: "Cheboygan", Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	color: #FFFFFF;
+	padding-top:30px;
+	padding-bottom:50px;
+	text-align:center;
+	
+		
+	
+}
+.busca {
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	color:#FFFFFF;
+	padding-top: 0px;
+	border: 0px solid #FF0000;
+	float:left;
+	margin-left: 600px;
+}
+. alinharBusca {
+	float:left;
+}
